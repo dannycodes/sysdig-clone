@@ -1,3 +1,10 @@
+Cloned Sysdig
+=============
+
+I cloned the sysdig repo, this is a copy. Pull and push from dev branch.
+Update README.md as you see fit.
+
+
 sysdig
 ======
 
